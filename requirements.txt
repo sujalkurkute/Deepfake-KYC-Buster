@@ -1,7 +1,7 @@
 streamlit
 tensorflow==2.16.1
 keras
-opencv -python-headless
+opencv-python-headless
 numpy
 pillow
 pandas
