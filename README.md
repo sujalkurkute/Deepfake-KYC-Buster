@@ -76,4 +76,4 @@ Frame-by-frame video analysis
 👨‍💻 Author
 
 Sujal Rajkumar Kurkute
-Artificial Intelligence & Data Science Engineering Student
+(Artificial Intelligence & Data Science Engineering Student)
