@@ -2,7 +2,10 @@
 
 An AI-powered system that detects deepfake images and videos to enhance digital identity verification and prevent fraud in KYC processes.
 
-This project uses Deep Learning (MobileNetV2) trained on the FaceForensics++ dataset to classify images or video frames as Real or Fake.📌 Project Overview
+This project uses Deep Learning (MobileNetV2) trained on the FaceForensics++ dataset to classify images or video frames as Real or Fake.
+
+
+📌 Project Overview
 
 Deepfake technology can create highly realistic fake images and videos using artificial intelligence. These manipulated media pose serious risks in:
 
